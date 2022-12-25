@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Disha677
-- 👀 I’m interested in devops, remote job and Web development
+- 👀 I’m interested in devops, remote jobs and Web development
 
 
-- 🌱 I’m currently learning java
+- 🌱 I’m a Frontend Developer and aspiring Full Stack Developer
+- I am actively looking for an internship 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me via email
 
